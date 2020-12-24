@@ -32,5 +32,8 @@ namespace WebApplication2.Controllers
         public ActionResult Shuai1() {
             return View();
         }
+        public ActionResult adds() {
+            return View();
+        }
     }
 }
