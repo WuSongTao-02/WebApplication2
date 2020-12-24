@@ -9,5 +9,6 @@ namespace Model
     public class Class1
     {
         int a = 123;
+        int b = 0;
     }
 }
