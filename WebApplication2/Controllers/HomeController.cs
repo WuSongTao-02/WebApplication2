@@ -20,9 +20,9 @@ namespace WebApplication2.Controllers
             return View();
         }
 
-        public ActionResult Contact()
+        public ActionResult qwer()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "gln";
 
             return View();
         }
