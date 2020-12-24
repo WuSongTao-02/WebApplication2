@@ -9,9 +9,6 @@ namespace Model
     public class Class1
     {
         int a = 123;
-
-        string p = "66";
-
         int b = 0;
     }
 }
